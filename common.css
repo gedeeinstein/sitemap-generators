@@ -1,0 +1,21 @@
+/* CSS Document */
+.sujjestedrow{ display:none; background:#FFFFFF; border:1px solid #000000; z-index:9999; overflow:hidden; }
+.sujjesteddatarow{ background:#FFFFFF; height:32px; line-height:32px; overflow:hidden; padding-left:2px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight:normal; font-style: normal; color:#000000; }
+.closesuggestion{ font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight:bold; text-decoration: underline;	line-height:20px;	
+color:#00375e; cursor:pointer; padding-right:5px; text-align:right; text-transform:capitalize; }
+.dispnone{ display:none; }
+.dispblock{ display:block; }
+.rsidetext{ float:right; }
+.lsidetext{ float:left; }
+.lrclear{ clear:both; }
+.padlefttxt{ padding-left:5px; }
+img.suggestimg{ max-width:28px; height:auto;  }
+.suggtext{ width:250px !important; overflow:hidden; }
+
+.postnamehide{ display:none; }
+.postnameshow{ display:block; }
+
+@media (max-width: 768px) {
+   .mainpostnames{ display:none !important; }   
+   .actualpostnames{ display:block !important; }
+}
