@@ -7,3 +7,4 @@
 #comments , .comments-area , .comments-title , .comment-list , #respond, #commentform, #addcomment, .entry-comments {
 	 display: none !important;
 }
+@charset "UTF-8";#comments,.comments-area,.comments-title,.comment-list,#respond,#commentform,#addcomment,.entry-comments{display:none!important;}
